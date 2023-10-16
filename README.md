@@ -1,5 +1,3 @@
-LastWord69ANIMA/ README.md
-
 ### Hi there 👾
 
 this is a profile/README.
